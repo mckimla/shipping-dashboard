@@ -1,7 +1,7 @@
 //setting up canvas
 function setup() {
-	var undelivered = createCanvas(1450, 1250);
-	undelivered.parent('undelivereddiv');
+	var canvas = createCanvas(1450, 1250);
+	canvas.parent('undelivereddiv');
 	background(227, 225, 222);
 }
 
