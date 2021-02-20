@@ -5,7 +5,7 @@
 /*navigation bar*/
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: #fff;
-    background-color: rgb(0, 139, 139) !important;
+    background-color: #98ab9d !important;
 }
 
 /*nav pills*/
@@ -17,23 +17,23 @@ a {
 
 /*color changes when hovered over nav pills*/
 a:hover {
-    color: rgb(0, 139, 139);
+    color: #98ab9d;
 }
 
 
 
 /*heading */
 h1 {
-  font: bold 3.0em Quicksand, sans-serif;
+  font: bold 2.5em Quicksand, sans-serif;
   height: 65px;
-  color: rgb(0, 139, 139)
+  color: #98ab9d;
 }
 
 /*heading 2*/
 h2 {
   font: bold 4.0em Quicksand, sans-serif;
   height: 65px;
-  color: rgb(0, 139, 139);
+  color: #98ab9d;
   padding-top: 15px;
   padding-bottom: 90px;
 }
@@ -49,14 +49,14 @@ h3 { font: bold 1.5em Quicksand, sans-serif;
 h4 {
   font: bold 1.0em Quicksand, sans-serif;
   height: 45px;
-  color: rgb(0, 139, 139);
+  color: #98ab9d;
   margin: auto;
 }
 
 /*heading 5*/
 h5 {
-  font: bold 1.5em Quicksand, sans-serif;
-  color: rgb(0, 139, 139);
+  font: bold 1.1em Quicksand, sans-serif;
+  color: #98ab9d;
   
 }
 
@@ -86,28 +86,6 @@ div.c {
 	color: #000000;
 }
 
-div.carousel-inner {
-    align-items: center;
-}
-
-div.contact {
-    font: 3.0em Quicksand, sans-serif;
-}
-
-div.lead {
-    font: bold 3.0em Quicksand, sans-serif;
-    color: black;
-}
-
-h1.display-4 {
-    font: bold 1.0em Quicksand, sans-serif;
-}
-
-p.lead {
-    font: bold 1.8em Quicksand, sans-serif;
-    color: rgb(0, 139, 139);
-   
-}
 
 
 /* Logo */
@@ -147,34 +125,6 @@ p.lead {
 .home {
   padding-top: 25px;
 }
-
-
-/* Modal Pics */
-.modalpic {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-
-/* Centered Images */
-.center {
-	 display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  padding-top: 7px;
-  padding-bottom: 7px;
-}
-
-.centered {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: 15px;
-  padding-bottom: 15px;
-}
-
  
 
 /* Font Awesome Icons */
@@ -196,34 +146,21 @@ p.lead {
 /* Instagram */
 .fa-instagram {
   background: none;
-  color: rgb(0, 139, 139);
+  color: #98ab9d;
 }
 /* Mail Icon */
 .fa-envelope {
-	color: rgb(0, 139, 139)
+	color: #98ab9d;
 
 }
 /* Phone icon */
 .fa-phone {
-	color: rgb(0, 139, 139)
-}
-
-/* Carousel */
-.carousel {
-    width:640px;
-  height:425px;
-  margin: auto;
-}
-
-/* Image Gallery Modal */
-.carousel-modal {
-    width: 100%;
-    margin: auto;
+	color: #98ab9d;
 }
 
 /* Buttons */
 .btn {
-    background-color: rgb(0, 139, 139);
+    background-color: #98ab9d;
     border: none;
     text-decoration: none;
     margin-bottom: 5px;
@@ -244,7 +181,7 @@ p.lead {
 
 /* Dropdown menu */
 .dropdown-menu, .dropdown-item:hover {
-    color: #A9A9A9;
+    color: #98ab9d;
     background-color: white;
 } 
 
